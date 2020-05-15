@@ -1,0 +1,16 @@
+{
+  "name": "generator-example",
+  "version": "0.1.0",
+  "description": "Example of a yeoman generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Jorge Cuevas <jorge.cuevas.92@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.10.1"
+  }
+}
